@@ -102,6 +102,3 @@ A Streamlit application demonstrates the complete machine learning pipeline.
 
 
 
-GitHub: Add your GitHub profile link
-
-LinkedIn: Add your LinkedIn profile link
